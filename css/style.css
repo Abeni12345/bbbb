@@ -1,0 +1,71 @@
+
+
+.main{
+    background-image: url(../img/9th.jpg);
+    height: 600px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 60px;
+    background-repeat: no-repeat;
+}
+button{
+    /* background-image: url(../img/lib.jpg); */
+    font-size: 40px;
+    background-position: center;
+    color: white;
+    border-radius: 20px;
+    border: solid;
+    margin-top: 25px;
+    border-color: aqua;
+    background-color: aqua;
+}
+.all{
+    height: 450px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.all :hover{
+    margin-top: 30px;
+    opacity: 0.65;
+}
+a{
+   color: white;
+   text-decoration: none;
+}
+.exam{
+    color: rgb(244, 101, 101);
+}
+.nine{
+    background-image: url(../img/9t.jpg);
+    height: 400px;
+    width: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border: solid;
+    border-color: white;
+    border-radius: 35px;
+    font-size: 40px;
+    margin: 7px;
+    background-position: center;
+    margin-top: 10px;
+}
+.nine :hover{
+    cursor: pointer;
+    margin-bottom: 30px;
+}
+.twe{
+    background-image: url(../img/oda.jpg);
+}
+.ele{
+    background-image: url(../img/oda2.jpg);
+}
+.ten{
+    background-image: url(../img/10th.jpg);
+}
